@@ -1,0 +1,500 @@
+Triangle 1
+Sides  :   a = 37  b = 17  c = 47
+Angles  :  A = 45.0498  B = 87.9502  C = 115.98
+Area = 282.728
+perimeter = 101
+Triangle 2
+Sides  :   a = 32  b = 31  c = 13
+Angles  :  A = 82.4454  B = 84.5546  C = 23.7491
+Area = 199.75
+perimeter = 76
+Triangle 3
+Sides  :   a = 7  b = 8  c = 11
+Angles  :  A = 39.4017  B = 129.598  C = 94.0988
+Area = 27.9285
+perimeter = 26
+Triangle 4
+Sides  :   a = 34  b = 37  c = 15
+Angles  :  A = 66.7613  B = 98.2387  C = 23.9155
+Area = 254.982
+perimeter = 86
+Triangle 5
+Sides  :   a = 10  b = 11  c = 16
+Angles  :  A = 38.1014  B = 125.899  C = 99.1571
+Area = 54.2995
+perimeter = 37
+Triangle 6
+Sides  :   a = 28  b = 29  c = 12
+Angles  :  A = 73.2164  B = 94.7836  C = 24.2251
+Area = 166.586
+perimeter = 69
+Triangle 7
+Sides  :   a = 25  b = 4  c = 27
+Angles  :  A = 56.2527  B = 96.7473  C = 116.107
+Area = 44.8999
+perimeter = 56
+Triangle 8
+Sides  :   a = 43  b = 8  c = 41
+Angles  :  A = 99.1249  B = 39.8751  C = 70.2951
+Area = 161.926
+perimeter = 92
+Triangle 9
+Sides  :   a = 27  b = 40  c = 33
+Angles  :  A = 42.0629  B = 104.937  C = 54.9668
+Area = 442.154
+perimeter = 100
+Triangle 10
+Sides  :   a = 33  b = 21  c = 48
+Angles  :  A = 34.773  B = 97.227  C = 123.952
+Area = 287.437
+perimeter = 102
+Triangle 11
+Sides  :   a = 23  b = 23  c = 4
+Angles  :  A = 85.014  B = 90.986  C = 9.97738
+Area = 45.8258
+perimeter = 50
+Triangle 12
+Sides  :   a = 38  b = 19  c = 20
+Angles  :  A = 153.99  B = 6.00981  C = 13.3469
+Area = 83.3333
+perimeter = 77
+Triangle 13
+Sides  :   a = 18  b = 26  c = 42
+Angles  :  A = 14.3355  B = 123.665  C = 144.714
+Area = 135.185
+perimeter = 86
+Triangle 14
+Sides  :   a = 32  b = 22  c = 38
+Angles  :  A = 57.2724  B = 84.7276  C = 87.3973
+Area = 351.636
+perimeter = 92
+Triangle 15
+Sides  :   a = 30  b = 38  c = 10
+Angles  :  A = 32.0744  B = 137.926  C = 10.1955
+Area = 100.891
+perimeter = 78
+Triangle 16
+Sides  :   a = 35  b = 24  c = 39
+Angles  :  A = 62.2391  B = 78.7609  C = 80.4083
+Area = 414.126
+perimeter = 98
+Triangle 17
+Sides  :   a = 16  b = 19  c = 11
+Angles  :  A = 57.2724  B = 111.728  C = 35.3355
+Area = 87.909
+perimeter = 46
+Triangle 18
+Sides  :   a = 18  b = 36  c = 29
+Angles  :  A = 29.7398  B = 121.26  C = 53.0543
+Area = 258.937
+perimeter = 83
+Triangle 19
+Sides  :   a = 40  b = 17  c = 36
+Angles  :  A = 90.7048  B = 53.2952  C = 64.1511
+Area = 305.977
+perimeter = 93
+Triangle 20
+Sides  :   a = 34  b = 37  c = 42
+Angles  :  A = 50.4998  B = 87.5002  C = 72.3965
+Area = 599.538
+perimeter = 113
+Triangle 21
+Sides  :   a = 37  b = 34  c = 15
+Angles  :  A = 89.3286  B = 75.6714  C = 23.9155
+Area = 254.982
+perimeter = 86
+Triangle 22
+Sides  :   a = 32  b = 15  c = 35
+Angles  :  A = 66.0661  B = 78.9339  C = 88.5701
+Area = 239.925
+perimeter = 82
+Triangle 23
+Sides  :   a = 8  b = 26  c = 26
+Angles  :  A = 17.7003  B = 136.3  C = 81.1525
+Area = 102.762
+perimeter = 60
+Triangle 24
+Sides  :   a = 36  b = 46  c = 32
+Angles  :  A = 51.2195  B = 96.7805  C = 43.863
+Area = 573.738
+perimeter = 114
+Triangle 25
+Sides  :   a = 34  b = 20  c = 34
+Angles  :  A = 72.8975  B = 73.1025  C = 72.8975
+Area = 324.962
+perimeter = 88
+Triangle 26
+Sides  :   a = 40  b = 13  c = 42
+Angles  :  A = 72.2473  B = 65.7527  C = 89.7272
+Area = 259.997
+perimeter = 95
+Triangle 27
+Sides  :   a = 36  b = 38  c = 41
+Angles  :  A = 54.0593  B = 84.9407  C = 67.2302
+Area = 630.685
+perimeter = 115
+Triangle 28
+Sides  :   a = 33  b = 33  c = 45
+Angles  :  A = 47.0155  B = 87.9845  C = 85.9743
+Area = 543.155
+perimeter = 111
+Triangle 29
+Sides  :   a = 38  b = 17  c = 27
+Angles  :  A = 117.652  B = 35.3476  C = 39.0063
+Area = 203.293
+perimeter = 82
+Triangle 30
+Sides  :   a = 50  b = 31  c = 48
+Angles  :  A = 75.1067  B = 56.8933  C = 68.0873
+Area = 718.999
+perimeter = 129
+Triangle 31
+Sides  :   a = 30  b = 44  c = 46
+Angles  :  A = 38.8635  B = 95.1365  C = 74.1756
+Area = 634.98
+perimeter = 120
+Triangle 32
+Sides  :   a = 44  b = 18  c = 27
+Angles  :  A = 155.295  B = -2.29471  C = 14.8638
+Area = 101.58
+perimeter = 89
+Triangle 33
+Sides  :   a = 18  b = 43  c = 29
+Angles  :  A = 18.4367  B = 132.563  C = 30.6321
+Area = 197.18
+perimeter = 90
+Triangle 34
+Sides  :   a = 17  b = 43  c = 46
+Angles  :  A = 21.6869  B = 112.313  C = 89.1404
+Area = 365.459
+perimeter = 106
+Triangle 35
+Sides  :   a = 42  b = 33  c = 19
+Angles  :  A = 104.504  B = 56.4958  C = 25.9752
+Area = 303.513
+perimeter = 94
+Triangle 36
+Sides  :   a = 17  b = 9  c = 19
+Angles  :  A = 63.4269  B = 97.5731  C = 88.3172
+Area = 76.4669
+perimeter = 45
+Triangle 37
+Sides  :   a = 2  b = 42  c = 43
+Angles  :  A = 2.33543  B = 134.665  C = 118.829
+Area = 36.7959
+perimeter = 87
+Triangle 38
+Sides  :   a = 28  b = 27  c = 31
+Angles  :  A = 57.2351  B = 91.7649  C = 68.5896
+Area = 351.909
+perimeter = 86
+Triangle 39
+Sides  :   a = 24  b = 34  c = 46
+Angles  :  A = 30.4711  B = 103.529  C = 103.612
+Area = 396.545
+perimeter = 104
+Triangle 40
+Sides  :   a = 14  b = 23  c = 22
+Angles  :  A = 36.1669  B = 121.833  C = 68.0257
+Area = 149.301
+perimeter = 59
+Triangle 41
+Sides  :   a = 31  b = 20  c = 20
+Angles  :  A = 101.613  B = 58.3869  C = 39.1961
+Area = 195.908
+perimeter = 71
+Triangle 42
+Sides  :   a = 15  b = 25  c = 21
+Angles  :  A = 36.7799  B = 122.22  C = 56.9542
+Area = 157.166
+perimeter = 61
+Triangle 43
+Sides  :   a = 42  b = 16  c = 35
+Angles  :  A = 104.639  B = 40.3608  C = 53.7368
+Area = 270.914
+perimeter = 93
+Triangle 44
+Sides  :   a = 47  b = 44  c = 30
+Angles  :  A = 76.2632  B = 73.7368  C = 38.3198
+Area = 641.116
+perimeter = 121
+Triangle 45
+Sides  :   a = 28  b = 38  c = 44
+Angles  :  A = 39.0767  B = 96.9233  C = 82.1155
+Area = 526.968
+perimeter = 110
+Triangle 46
+Sides  :   a = 40  b = 36  c = 14
+Angles  :  A = 96.1535  B = 69.8465  C = 20.3647
+Area = 250.549
+perimeter = 90
+Triangle 47
+Sides  :   a = 41  b = 28  c = 25
+Angles  :  A = 101.206  B = 53.794  C = 36.7377
+Area = 343.331
+perimeter = 94
+Triangle 48
+Sides  :   a = 16  b = 10  c = 9
+Angles  :  A = 114.628  B = 56.3723  C = 30.7544
+Area = 40.9077
+perimeter = 35
+Triangle 49
+Sides  :   a = 30  b = 48  c = 42
+Angles  :  A = 38.2143  B = 99.7857  C = 60.0018
+Area = 623.538
+perimeter = 120
+Triangle 50
+Sides  :   a = 38  b = 18  c = 41
+Angles  :  A = 67.6633  B = 71.3367  C = 86.3563
+Area = 341.308
+perimeter = 97
+Triangle 51
+Sides  :   a = 50  b = 28  c = 47
+Angles  :  A = 79.2065  B = 53.7935  C = 67.4247
+Area = 646.354
+perimeter = 125
+Triangle 52
+Sides  :   a = 17  b = 37  c = 44
+Angles  :  A = 22.137  B = 113.863  C = 102.77
+Area = 306.725
+perimeter = 98
+Triangle 53
+Sides  :   a = 37  b = 23  c = 15
+Angles  :  A = 153.042  B = 11.9579  C = 10.5923
+Area = 78.2125
+perimeter = 75
+Triangle 54
+Sides  :   a = 37  b = 45  c = 50
+Angles  :  A = 45.4673  B = 84.5327  C = 74.429
+Area = 801.938
+perimeter = 132
+Triangle 55
+Sides  :   a = 40  b = 47  c = 13
+Angles  :  A = 50.4582  B = 116.542  C = 14.5147
+Area = 235.584
+perimeter = 100
+Triangle 56
+Sides  :   a = 36  b = 19  c = 50
+Angles  :  A = 34.5457  B = 95.4543  C = 128.045
+Area = 269.348
+perimeter = 105
+Triangle 57
+Sides  :   a = 29  b = 15  c = 21
+Angles  :  A = 106.131  B = 52.8692  C = 44.0795
+Area = 151.302
+perimeter = 65
+Triangle 58
+Sides  :   a = 36  b = 25  c = 13
+Angles  :  A = 140.566  B = 26.4343  C = 13.2619
+Area = 103.228
+perimeter = 74
+Triangle 59
+Sides  :   a = 9  b = 36  c = 31
+Angles  :  A = 12.862  B = 136.138  C = 50.0622
+Area = 124.21
+perimeter = 76
+Triangle 60
+Sides  :   a = 47  b = 39  c = 35
+Angles  :  A = 78.6581  B = 66.3419  C = 46.8988
+Area = 669.166
+perimeter = 121
+Triangle 61
+Sides  :   a = 30  b = 26  c = 34
+Angles  :  A = 58.1887  B = 87.8113  C = 74.3837
+Area = 375.6
+perimeter = 90
+Triangle 62
+Sides  :   a = 48  b = 4  c = 45
+Angles  :  A = 136.937  B = -1.93703  C = 39.806
+Area = 61.4568
+perimeter = 97
+Triangle 63
+Sides  :   a = 11  b = 31  c = 24
+Angles  :  A = 17.8971  B = 138.103  C = 42.1047
+Area = 114.315
+perimeter = 66
+Triangle 64
+Sides  :   a = 50  b = 5  c = 47
+Angles  :  A = 124.472  B = 8.52752  C = 50.8037
+Area = 96.871
+perimeter = 102
+Triangle 65
+Sides  :   a = 41  b = 23  c = 33
+Angles  :  A = 92.3813  B = 54.6187  C = 53.5332
+Area = 379.173
+perimeter = 97
+Triangle 66
+Sides  :   a = 46  b = 11  c = 39
+Angles  :  A = 123.539  B = 17.4613  C = 44.9687
+Area = 178.796
+perimeter = 96
+Triangle 67
+Sides  :   a = 6  b = 21  c = 20
+Angles  :  A = 16.5983  B = 143.402  C = 72.2105
+Area = 59.987
+perimeter = 47
+Triangle 68
+Sides  :   a = 28  b = 44  c = 24
+Angles  :  A = 35.0978  B = 120.902  C = 29.5271
+Area = 303.579
+perimeter = 96
+Triangle 69
+Sides  :   a = 33  b = 50  c = 26
+Angles  :  A = 36.6131  B = 117.387  C = 28.0277
+Area = 387.656
+perimeter = 109
+Triangle 70
+Sides  :   a = 26  b = 22  c = 41
+Angles  :  A = 34.3732  B = 104.627  C = 117.095
+Area = 254.619
+perimeter = 89
+Triangle 71
+Sides  :   a = 27  b = 46  c = 24
+Angles  :  A = 27.248  B = 128.752  C = 24.0147
+Area = 252.722
+perimeter = 97
+Triangle 72
+Sides  :   a = 13  b = 28  c = 34
+Angles  :  A = 21.5429  B = 124.457  C = 106.194
+Area = 174.781
+perimeter = 75
+Triangle 73
+Sides  :   a = 9  b = 34  c = 32
+Angles  :  A = 15.2882  B = 132.712  C = 69.6346
+Area = 143.434
+perimeter = 75
+Triangle 74
+Sides  :   a = 29  b = 22  c = 42
+Angles  :  A = 40.4166  B = 97.5834  C = 110.127
+Area = 299.526
+perimeter = 93
+Triangle 75
+Sides  :   a = 25  b = 22  c = 12
+Angles  :  A = 89.6771  B = 78.3229  C = 28.6857
+Area = 131.998
+perimeter = 59
+Triangle 76
+Sides  :   a = 14  b = 33  c = 20
+Angles  :  A = 11.6088  B = 148.391  C = 16.7065
+Area = 66.4036
+perimeter = 67
+Triangle 77
+Sides  :   a = 10  b = 15  c = 14
+Angles  :  A = 40.1577  B = 125.842  C = 64.5343
+Area = 67.7122
+perimeter = 39
+Triangle 78
+Sides  :   a = 18  b = 23  c = 7
+Angles  :  A = 37.9258  B = 135.074  C = 13.8292
+Area = 49.4773
+perimeter = 48
+Triangle 79
+Sides  :   a = 33  b = 46  c = 49
+Angles  :  A = 40.4994  B = 90.5006  C = 74.6458
+Area = 731.902
+perimeter = 128
+Triangle 80
+Sides  :   a = 41  b = 38  c = 28
+Angles  :  A = 75.1072  B = 76.8928  C = 41.2995
+Area = 514.124
+perimeter = 107
+Triangle 81
+Sides  :   a = 33  b = 48  c = 45
+Angles  :  A = 41.4108  B = 93.5892  C = 64.4189
+Area = 714.353
+perimeter = 126
+Triangle 82
+Sides  :   a = 20  b = 16  c = 30
+Angles  :  A = 38.0486  B = 111.951  C = 112.414
+Area = 147.916
+perimeter = 66
+Triangle 83
+Sides  :   a = 49  b = 40  c = 15
+Angles  :  A = 118.689  B = 46.3111  C = 15.5786
+Area = 263.181
+perimeter = 104
+Triangle 84
+Sides  :   a = 50  b = 14  c = 38
+Angles  :  A = 143.932  B = -1.93156  C = 26.584
+Area = 156.624
+perimeter = 102
+Triangle 85
+Sides  :   a = 50  b = 43  c = 42
+Angles  :  A = 72.055  B = 65.945  C = 53.0483
+Area = 859.061
+perimeter = 135
+Triangle 86
+Sides  :   a = 43  b = 49  c = 30
+Angles  :  A = 60.406  B = 89.594  C = 37.3488
+Area = 639.106
+perimeter = 122
+Triangle 87
+Sides  :   a = 15  b = 41  c = 30
+Angles  :  A = 16.7202  B = 133.28  C = 35.1273
+Area = 176.929
+perimeter = 86
+Triangle 88
+Sides  :   a = 29  b = 28  c = 42
+Angles  :  A = 43.4687  B = 94.5313  C = 94.9128
+Area = 404.51
+perimeter = 99
+Triangle 89
+Sides  :   a = 30  b = 39  c = 19
+Angles  :  A = 48.5016  B = 112.498  C = 28.3172
+Area = 277.489
+perimeter = 88
+Triangle 90
+Sides  :   a = 21  b = 24  c = 42
+Angles  :  A = 19.6165  B = 118.384  C = 137.827
+Area = 169.199
+perimeter = 87
+Triangle 91
+Sides  :   a = 30  b = 17  c = 36
+Angles  :  A = 55.9707  B = 88.0293  C = 96.0244
+Area = 253.593
+perimeter = 83
+Triangle 92
+Sides  :   a = 42  b = 26  c = 43
+Angles  :  A = 70.1045  B = 66.8955  C = 74.302
+Area = 525.629
+perimeter = 111
+Triangle 93
+Sides  :   a = 36  b = 23  c = 16
+Angles  :  A = 133.975  B = 30.0251  C = 18.6552
+Area = 132.423
+perimeter = 75
+Triangle 94
+Sides  :   a = 29  b = 29  c = 3
+Angles  :  A = 87.0377  B = 89.9623  C = 5.92997
+Area = 43.4418
+perimeter = 61
+Triangle 95
+Sides  :   a = 34  b = 40  c = 44
+Angles  :  A = 47.4589  B = 88.5411  C = 72.4562
+Area = 648.363
+perimeter = 118
+Triangle 96
+Sides  :   a = 35  b = 39  c = 44
+Angles  :  A = 49.4335  B = 86.5665  C = 72.7424
+Area = 651.767
+perimeter = 118
+Triangle 97
+Sides  :   a = 41  b = 32  c = 37
+Angles  :  A = 72.5039  B = 70.4961  C = 59.3948
+Area = 564.606
+perimeter = 110
+Triangle 98
+Sides  :   a = 15  b = 22  c = 22
+Angles  :  A = 39.8657  B = 118.134  C = 70.0698
+Area = 155.116
+perimeter = 59
+Triangle 99
+Sides  :   a = 34  b = 39  c = 23
+Angles  :  A = 60.1123  B = 96.8877  C = 35.9095
+Area = 388.844
+perimeter = 96
+Triangle 100
+Sides  :   a = 40  b = 47  c = 13
+Angles  :  A = 50.4582  B = 116.542  C = 14.5147
+Area = 235.584
+perimeter = 100
